@@ -9,6 +9,7 @@
     <li><a href="wall.php?category=Anxiety">Anxiety</a></li>
     <li><a href="wall.php?category=Hope">Hope</a></li>
   </ul>
+
 </div>
 
 <div class="container">
